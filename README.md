@@ -1,4 +1,4 @@
-# Amazon-Sales-Analysis-iNeuron-
+# Amazon-Sales-Data-Analysis-iNeuron-
 # Amazon Sales Data Analysis with Python and Power BI
 
 ### Problem Statement:
